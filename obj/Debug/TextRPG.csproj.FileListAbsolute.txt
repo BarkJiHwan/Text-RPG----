@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\수업시작\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\KGA\Desktop\수업시작\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\KGA\Desktop\수업시작\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\KGA\Desktop\수업시작\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\수업시작\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\수업시작\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\KGA\Desktop\수업시작\TextRPG\obj\Debug\TextRPG.pdb
