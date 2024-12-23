@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|c:\\users\\kga\\desktop\\\uC218\uC5C5\uC2DC\uC791\\temp\\text-rpg----\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|c:\\users\\kga\\desktop\\\uC218\uC5C5\uC2DC\uC791\\temp\\text-rpg----\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFAB48A-EE30-4D08-930E-566DCFE6BC52}|TextRPG.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,14 +68,14 @@
               "RelativeDocumentMoniker": "Location.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Location.cs",
               "RelativeToolTip": "Location.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T00:19:47.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Map.cs",
               "RelativeDocumentMoniker": "Map.cs",
@@ -83,11 +83,12 @@
               "RelativeToolTip": "Map.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T03:15:42.57Z"
+              "WhenOpened": "2024-12-21T03:15:42.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
@@ -99,31 +100,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Skill.cs",
               "RelativeDocumentMoniker": "Skill.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Skill.cs",
               "RelativeToolTip": "Skill.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T01:56:40.606Z"
+              "WhenOpened": "2024-12-21T01:56:40.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Quest.cs",
               "RelativeDocumentMoniker": "Quest.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Quest.cs",
               "RelativeToolTip": "Quest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T01:53:57.012Z"
+              "WhenOpened": "2024-12-21T01:53:57.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
@@ -135,31 +138,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\TextRPG\\Game.cs*",
-              "RelativeToolTip": "..\\..\\TextRPG\\Game.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T05:27:04.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:26:49.725Z"
+              "WhenOpened": "2024-12-19T05:26:49.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\\uC218\uC5C5\uC2DC\uC791\\Temp\\Text-RPG----\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -167,7 +171,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:26:20.119Z"
+              "WhenOpened": "2024-12-19T05:26:20.119Z",
+              "EditorCaption": ""
             }
           ]
         }

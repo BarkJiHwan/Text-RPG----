@@ -8,10 +8,7 @@ using System.Threading.Tasks;
 namespace TextRPG
 {
     public class Location
-    {
-        static Village village = new Village();
-        static Field field = new Field();
-        static Dungeon dungeon = new Dungeon();
+    {        
         public Location()
         {
         }
@@ -97,8 +94,7 @@ namespace TextRPG
         public void OneField()
         {
             Console.WriteLine("초원", "푸른 초원 위로 다양한 몬스터들이 보인다.");
-            Console.WriteLine("몬스터와 전투를 합니다. 투닥투닥....");
-            village.TowVillage();
+            Console.WriteLine("몬스터와 전투를 합니다. 투닥투닥....");            
         }
         public void TowField()
         {
